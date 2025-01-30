@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://github.com/KabitaYesmin3063/event-management-system/event-management-system/video/EMS.mp4](https://github.com/KabitaYesmin3063/event-management-system/event-management-system/video/EMS.mp4)
+[https://github.com/KabitaYesmin3063/event-management-system/](https://github.com/KabitaYesmin3063/event-management-system/video/EMS.mp4)
 
   
   
